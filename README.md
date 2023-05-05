@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayushkarkihb
 - 👀 I’m interested in Coding(HTML,CSS,JS,PYTHON,MOBILE & WEB DEV)
-- 🌱 I’m currently learning Angular js
+- 🌱 I’m currently learning Angular & php
 - 📫 How to reach me aakristkarki@gmail.com
 
 <!---
